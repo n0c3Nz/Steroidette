@@ -6,6 +6,12 @@
 ```BASH
 chmod 700 install.sh && ./install.sh
 ```
+### How to use
+```bash
+steroidette
+```
+Después selecciona la cantidad de errores que quieres ver y te mostrará esa cantidad de errores, según los vayas solucionando se reemplazarán con los siguientes.
+
 ## Take a look
 <img width="406" alt="image" src="https://github.com/n0c3Nz/Steroidette/assets/106092515/2b3972af-1eb8-4480-8455-85af638b1fa3">
 
