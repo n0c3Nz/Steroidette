@@ -13,4 +13,4 @@ chmod 700 install.sh && ./install.sh
 
 ### ¿Qué hace install.sh?
 
-Como puedes ver en el script simplemente crea un directorio en `$HOME` llamado `.steroidette`mueve el .sh a la nueva ubicación y crea un alias basado en tu shell, todo chill.
+Como puedes ver en el script simplemente crea un directorio en `$HOME` llamado `.steroidette` mueve el `.sh` a la nueva ubicación y crea un alias basado en tu shell, todo chill.
